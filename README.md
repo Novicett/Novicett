@@ -15,9 +15,12 @@
 * :blush: Until the day I contribute to someone <br>
 </p>
 
-<p>
+
 
 ### :thumbsup: Certificate : Information Processing Engineer
-### :muscle: Skills
+### :muscle: Skills 
+<p> 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 </p>
+
 
