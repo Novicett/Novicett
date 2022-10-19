@@ -28,3 +28,10 @@
 </p>
 
 
+  <img src="https://github-readme-stats.vercel.app/api?username=Novicett" height="165"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novicett&layout=compact)](https://github.com/Novicett/githubreadme-stats)
+  
+  
+  
+
+
+
